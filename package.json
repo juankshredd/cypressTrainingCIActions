@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress open",
-  "test:open": "cypress open"
+    "test:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/juankshredd/cypressTrainingCIActions#readme",
   "devDependencies": {
-    "cypress": "^10.3.1"
+    "cypress": "^10.3.1",
+    "typescript": "^4.7.4"
   }
 }
