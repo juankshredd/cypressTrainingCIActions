@@ -1,0 +1,24 @@
+{
+  "name": "cypresstrainingciactions",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juankshredd/cypressTrainingCIActions.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "practice",
+    "cypress"
+  ],
+  "author": "juan Bohorquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juankshredd/cypressTrainingCIActions/issues"
+  },
+  "homepage": "https://github.com/juankshredd/cypressTrainingCIActions#readme"
+}
