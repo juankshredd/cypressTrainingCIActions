@@ -4,7 +4,8 @@
   "description": "workshop",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+  "test:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/juankshredd/cypressTrainingCIActions/issues"
   },
-  "homepage": "https://github.com/juankshredd/cypressTrainingCIActions#readme"
+  "homepage": "https://github.com/juankshredd/cypressTrainingCIActions#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
 }
