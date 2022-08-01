@@ -5,7 +5,7 @@ export default defineConfig({
   // the e2e or component configuration
   e2e: {
     video: false,
-  screenshotOnRunFailure: false,
+    screenshotOnRunFailure: false,
     setupNodeEvents(on, config) {
       // modify config values examples
       // config.defaultCommandTimeout = 10000
