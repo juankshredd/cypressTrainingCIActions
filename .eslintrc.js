@@ -12,7 +12,8 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
-        
+        "@typescript-eslint",
+        "cypress"
       ],
       "rules": {
         "quotes": ["error", "double"],
@@ -24,4 +25,4 @@ module.exports = {
         "require-jsdoc": "warn",
         "max-len": [ "error", { "code": 120 } ]
       }
-}
+} 
