@@ -25,4 +25,4 @@ module.exports = {
         "require-jsdoc": "warn",
         "max-len": [ "error", { "code": 120 } ]
       }
-}
+} 
