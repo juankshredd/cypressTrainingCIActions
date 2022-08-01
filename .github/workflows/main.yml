@@ -18,9 +18,6 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: fixing issues
-        run: npm run lint -- --fix
-
       - name: Code style
         run: npm run lint
 
