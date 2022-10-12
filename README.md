@@ -1,2 +1,2 @@
-# cypressTrainingCIActions
-practices 
+# cypress-trainingJK
+cypress ramp up workshop
